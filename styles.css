@@ -1,0 +1,361 @@
+:root {
+    --rosewater: #f5e0dc;
+    --flamingo: #f2cdcd;
+    --pink: #f5c2e7;
+    --mauve: #cba6f7;
+    --red: #f38ba8;
+    --maroon: #eba0ac;
+    --peach: #fab387;
+    --yellow: #f9e2af;
+    --green: #a6e3a1;
+    --teal: #94e2d5;
+    --sky: #89dceb;
+    --sapphire: #74c7ec;
+    --blue: #89b4fa;
+    --lavender: #b4befe;
+    --text: #cdd6f4;
+    --subtext1: #bac2de;
+    --subtext0: #a6adc8;
+    --overlay2: #9399b2;
+    --overlay1: #7f849c;
+    --overlay0: #6c7086;
+    --surface2: #585b70;
+    --surface1: #45475a;
+    --surface0: #282936;
+    --base: #1e1e2e;
+    --mantle: rgba(24, 24, 37, 0.5);
+    --crust: rgba(17, 17, 27, 0.85);
+    --main: #10151d;
+
+    --bartext: #f5f5f5;
+    --bartexthover: #ff757f;
+    --barbackground: transparent;
+    --widgetbackground: #1f2335;
+    --homeicon: #7dcfff;
+    --homehover: #b4f9f8;
+    --homemenubackground: #1f2335;
+    --homemenubackgroundhover: #292e42;
+    --homemenuseparator: #9d7cd8;
+    --workspace: #ffc777;
+    --workspaceactive: #ff9e64;
+    --workspacetext: #1f2335;
+    --prevtext: #ff757f;
+    --playtext: #ff757f;
+    --nexttext: #ff757f;
+    --medialabel: #b4f9f8;
+    --tilingbackground: #c3e88d;
+    --tilingdirectiontext: #1f2335;
+    --clocklabel: #9d7cd8;
+    --wifiicon: #4fd6be;
+    --batterylow: #ff007c;
+    --batterymedium: #ff9e64;
+    --batteryhigh: #c3e88d;
+    --volumeicon: #9d7cd8;
+    --powermenulabel: #ff757f;
+    --powermenuicon: #bb9af7;
+    --powermenucancellabel: #c53b53;
+    --weathericon: #ffc777;
+    --cpuicon: #7aa2f7;
+}
+
+* {
+    font-size: 12px;
+    color: var(--bartext);
+    font-weight: 600;
+    font-family: "JetBrainsMono NFP";
+    margin: 0;
+    padding: 0;
+}
+.yasb-bar {
+    padding: 0;
+    margin: 0;
+    background-color: var(--barbackground);
+    border-radius: 8px;
+}
+.widget {
+    padding: 0 12px;
+    margin: 0;
+}
+.icon {
+    font-size: 20px;
+}
+.widget .label {
+    padding: 0px 2px 0 5px;
+}
+
+/* Home */
+
+.home-widget {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+    padding: 0 12px;
+    margin: 0 10px 0 0;
+}
+.home-widget .icon {
+    color: var(--homeicon);
+    padding: 0 0px 0 0;
+}
+.home-widget .icon:hover {
+    color: var(--homehover);
+}
+.home-menu {
+    background-color: var(--homemenubackground);
+}
+.home-menu .menu-item {
+    padding: 10px 48px 10px 16px;
+    font-size: 14px;
+    font-family: 'JetBrains Mono', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--bartext); 
+    font-weight: 600;
+}
+.home-menu .menu-item:hover {
+    background-color: var(--homemenubackgroundhover);
+    color: #fff;
+}
+.home-menu .separator {
+    max-height: 1px;
+    background-color: var(--homemenuseparator);
+}
+
+/* GlazeWM */
+
+.glazewm-workspaces {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+}
+.glazewm-workspaces .ws-btn {
+    background-color: var(--workspace);
+    padding: 3px 7px 3px 7px;
+}
+.glazewm-workspaces .ws-btn.active {
+    color: var(--workspacetext);
+    background-color: var(--workspaceactive);
+}
+.glazewm-workspaces .ws-btn.populated,
+.glazewm-workspaces .ws-btn.empty {
+    color: var(--workspacetext);
+}
+
+/* GlazeWM tiling direction */
+
+.glazewm-tiling-direction {
+    background-color: var(--widgetbackground);
+    padding: 0 8px;
+    margin: 0;
+    border-radius: 16;
+}
+
+.glazewm-tiling-direction .btn {
+    font-size: 18px;
+    width: 14px;
+    padding: 0 5px 0 4px;
+    background-color: var(--tilingbackground);
+    color: var(--tilingdirectiontext);
+}
+
+.glazewm-tiling-direction .btn:hover {
+    color: #000000;
+    background-color: #f6f6f6;
+}
+
+/* Media */
+
+.media-widget {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+    margin: 0 0 0 10px;
+}
+.media-widget .btn.play {
+    padding: 0 5px 0 0;
+}
+.media-widget .btn.prev {
+    padding: 0 5px 0 3px;
+}
+.media-widget .btn.play {
+    font-size: 20px;
+    color: var(--playtext);
+}
+.media-widget .btn.prev {
+    font-size: 20px;
+    color: var(--prevtext);
+}
+.media-widget .btn.next {
+    font-size: 20px;
+    color: var(--nexttext);
+}
+.media-widget .btn.play:hover,
+.media-widget .btn.prev:hover,
+.media-widget .btn.next:hover {
+    color: var(--bartexthover);
+}
+
+.media-widget .label {
+  color: var(--medialabel);
+}
+
+
+/* Clock */
+
+.clock-widget .widget-container {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+}
+.clock-widget .widget-container .label {
+    color: var(--clocklabel);
+    margin: 0 10px 0 10px;
+}
+
+/* Wifi */
+
+.wifi-widget .widget-container {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+}
+.wifi-widget .widget-container .icon {
+    font-size: 18px;
+    color: var(--wifiicon);
+    padding: 0 0 0 10px;
+}
+.wifi-widget .widget-container .label {
+    padding: 0 10px 0 0;
+}
+
+
+/* Volume */
+
+.volume-widget {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+    padding: 0 5px;
+}
+.volume-widget .label {
+    padding: 0 5px 0 0;
+}
+.volume-widget .icon {
+    font-size: 16px;
+	color: var(--volumeicon);
+    padding: 0 5px 0 5px;
+}
+.audio-menu {
+    background-color: var(--widgetbackground);
+}
+
+/* CPU */
+
+.cpu-widget {}
+.cpu-widget .widget-container {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+}
+.cpu-widget .widget-container .label {
+    padding: 0 10px 0 0;
+}
+.cpu-widget .widget-container .label.alt {}
+.cpu-widget .widget-container .icon {
+    font-size: 16px;
+	color: var(--cpuicon);
+    padding: 0 5px 0 5px;
+}
+
+/* Battery */
+
+.battery-widget .widget-container {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+}
+.battery-widget .widget-container .label {
+    padding: 0 10px 0 0;
+}
+.battery-widget .widget-container .icon.status-low {
+    color: var(--batterylow);
+    padding: 0 5px 0 10px;
+}
+.battery-widget .widget-container .icon.status-medium {
+    color: var(--batterymedium);
+    padding: 0 5px 0 10px;
+}
+.battery-widget .widget-container .icon.status-high,
+.battery-widget .widget-container .icon.status-full,
+.battery-widget .widget-container .icon.status-charging {
+    color: var(--batteryhigh);
+    padding: 0 5px 0 10px;
+}
+
+/* Power menu */
+
+.power-menu-widget {
+    background-color: var(--widgetbackground);
+    border-radius: 16px;
+}
+.power-menu-widget .label {
+	color: var(--powermenulabel);
+	font-size: 14px;
+    padding: 0 5px 0 0;
+}
+.power-menu-popup {
+	background-color: transparent;
+}
+.power-menu-popup .button {
+	padding: 0;
+	width: 180px;
+	height: 230px;
+	border-radius: 8px;
+	background-color: var(--widgetbackground);
+	color:var(--bartext);
+	border-left: 4px solid rgba(58, 59, 83, 0);
+    border-right: 4px solid rgba(58, 59, 83, 0);
+    border-top: 8px solid rgba(58, 59, 83, 0);
+    border-bottom: 8px solid rgba(58, 59, 83, 0);
+	margin: 0px;
+}
+.power-menu-popup .button.hover {
+	background-color:var(--homemenubackgroundhover);
+	border-left: 2px solid var(--homemenuseparator);
+    border-right: 2px solid var(--homemenuseparator);
+    border-top: 2px solid var(--homemenuseparator);
+    border-bottom: 2px solid var(--homemenuseparator);
+}
+.power-menu-popup .button .label {
+	margin-bottom: 8px;
+	font-size: 16px;
+	font-weight: 500;
+	color: var(--bartext);
+}
+.power-menu-popup .button .icon {
+	font-size: 64px;
+	padding-top: 32px;
+	color: var(--powermenuicon);
+}
+.power-menu-popup .button.cancel .icon {
+    padding: 0;
+    margin: 0;
+}
+.power-menu-popup .button.cancel .label {
+	color: var(--powermenucancellabel);
+    margin: 0;
+}
+.power-menu-popup .button.cancel {
+    height: 32px;
+    border-radius: 4px;
+}
+.uptime {
+	margin-bottom: 10px;
+  font-size: 14px;
+	color: var(--bartext);
+}
+
+/* Weather */
+
+.weather-widget .widget-container {
+  background-color: var(--widgetbackground);
+  border-radius: 16px;
+  padding: 0 5px;
+}
+.weather-widget .widget-container .label {
+	padding: 0 10px 0px 0px;
+}
+.weather-widget .widget-container .icon {
+	font-size: 18px;
+	margin: 0 5px 0px 10px;
+    color: var(--weathericon);
+}

@@ -1,0 +1,443 @@
+2025-04-20 12:14:05 INFO log.py:21: Yasb v1.6.9
+2025-04-20 12:14:05 INFO config.py:61: Created default config file at C:\Users\Lucky\.config\yasb\config.yaml
+2025-04-20 12:14:06 INFO config.py:75: Created default stylesheet at C:\Users\Lucky\.config\yasb\styles.css
+2025-04-20 12:14:07 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 12:14:16 INFO weather.py:369: Fetched new weather data at 2025-04-20 12:14:16.730395
+2025-04-20 12:14:16 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 12:14:24 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 12:14:24 INFO event_listener.py:53: Created named pipe yasb-3bb9fe88-1dd0-11f0-9984-e4aaea5f1e14
+2025-04-20 12:14:24 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 12:14:24 DEBUG _windows.py:192: Thread started
+2025-04-20 12:24:16 INFO weather.py:369: Fetched new weather data at 2025-04-20 12:24:16.733285
+2025-04-20 12:34:16 INFO weather.py:369: Fetched new weather data at 2025-04-20 12:34:16.744555
+2025-04-20 12:44:16 INFO weather.py:369: Fetched new weather data at 2025-04-20 12:44:16.739741
+2025-04-20 12:54:16 INFO weather.py:369: Fetched new weather data at 2025-04-20 12:54:16.729310
+2025-04-20 13:01:55 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:01:55 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:01:57 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:01:57.548137
+2025-04-20 13:01:57 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:02:02 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:02:02 INFO event_listener.py:53: Created named pipe yasb-e3b37cdf-1dd6-11f0-a7c2-e4aaea5f1e14
+2025-04-20 13:02:03 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:02:03 DEBUG _windows.py:192: Thread started
+2025-04-20 13:06:32 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:06:32 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:06:32 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:06:32 DEBUG _windows.py:75: Closing
+2025-04-20 13:06:34 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:06:35 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:06:36 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:06:36.996470
+2025-04-20 13:06:37 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:06:41 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:06:41 INFO event_listener.py:53: Created named pipe yasb-89859f96-1dd7-11f0-a1a5-e4aaea5f1e14
+2025-04-20 13:06:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:06:41 DEBUG _windows.py:192: Thread started
+2025-04-20 13:07:09 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:07:09 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:07:09 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:07:09 DEBUG _windows.py:75: Closing
+2025-04-20 13:07:12 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:07:13 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:07:14 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:07:14.880180
+2025-04-20 13:07:14 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:07:19 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:07:19 INFO event_listener.py:53: Created named pipe yasb-a05320d1-1dd7-11f0-9a04-e4aaea5f1e14
+2025-04-20 13:07:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:07:19 DEBUG _windows.py:192: Thread started
+2025-04-20 13:07:40 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:07:40 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:07:40 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:07:40 DEBUG _windows.py:75: Closing
+2025-04-20 13:07:42 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:07:43 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:07:44 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:07:44.717932
+2025-04-20 13:07:44 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:07:48 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:07:48 INFO event_listener.py:53: Created named pipe yasb-b1c8abd3-1dd7-11f0-9a36-e4aaea5f1e14
+2025-04-20 13:07:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:07:48 DEBUG _windows.py:192: Thread started
+2025-04-20 13:07:57 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:07:57 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:07:57 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:07:57 DEBUG _windows.py:75: Closing
+2025-04-20 13:07:59 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:08:00 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:08:01 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:08:01.667786
+2025-04-20 13:08:01 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:08:06 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:08:06 INFO event_listener.py:53: Created named pipe yasb-bc7da2c8-1dd7-11f0-a4de-e4aaea5f1e14
+2025-04-20 13:08:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:08:06 DEBUG _windows.py:192: Thread started
+2025-04-20 13:14:23 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:14:23 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:14:23 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:14:23 DEBUG _windows.py:75: Closing
+2025-04-20 13:14:25 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:14:27 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:14:27 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:14:27.663539
+2025-04-20 13:14:27 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:14:28 WARNING widget_builder.py:38: No widget config could be found for widget 'battery
+2025-04-20 13:14:31 ERROR widget_builder.py:77: Failed to add undefined widget(s)  - The widget "battery" is undefined.
+2025-04-20 13:16:11 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:16:12 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:16:12 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:16:12.788531
+2025-04-20 13:16:12 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:16:16 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:16:17 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:16:17 DEBUG _windows.py:192: Thread started
+2025-04-20 13:21:19 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:21:19 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:21:19 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:21:19 DEBUG _windows.py:75: Closing
+2025-04-20 13:21:21 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:21:22 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:21:22 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:21:22.835114
+2025-04-20 13:21:22 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:21:26 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:21:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:21:26 DEBUG _windows.py:192: Thread started
+2025-04-20 13:21:46 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:21:46 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:21:46 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:21:46 DEBUG _windows.py:75: Closing
+2025-04-20 13:21:47 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:21:48 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:21:49 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:21:49.159568
+2025-04-20 13:21:49 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:21:52 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:21:53 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:21:53 DEBUG _windows.py:192: Thread started
+2025-04-20 13:25:49 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:25:49 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:25:49 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:25:49 DEBUG _windows.py:75: Closing
+2025-04-20 13:25:51 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:25:53 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:25:53 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:25:53.436182
+2025-04-20 13:25:53 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:25:57 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:25:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:25:57 DEBUG _windows.py:192: Thread started
+2025-04-20 13:26:37 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:26:37 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:26:37 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:26:37 DEBUG _windows.py:75: Closing
+2025-04-20 13:26:39 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:26:41 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:26:42 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:26:42.123930
+2025-04-20 13:26:42 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:26:46 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:26:46 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:26:46 DEBUG _windows.py:192: Thread started
+2025-04-20 13:28:27 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:28:27 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:28:27 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:28:27 DEBUG _windows.py:75: Closing
+2025-04-20 13:28:29 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:28:31 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:28:32 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:28:36 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:28:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:28:36 DEBUG _windows.py:192: Thread started
+2025-04-20 13:29:04 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 13:29:04 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 13:29:04 DEBUG _windows.py:201: Exiting thread
+2025-04-20 13:29:04 DEBUG _windows.py:75: Closing
+2025-04-20 13:29:07 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:29:09 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:29:10 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:29:10.363397
+2025-04-20 13:29:10 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:29:16 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:29:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:29:16 DEBUG _windows.py:192: Thread started
+2025-04-20 13:29:36 INFO log.py:21: Yasb v1.6.9
+2025-04-20 13:29:38 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 13:29:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:29:39.424030
+2025-04-20 13:29:39 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 13:29:43 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 13:29:43 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 13:29:43 DEBUG _windows.py:192: Thread started
+2025-04-20 13:39:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:39:39.422433
+2025-04-20 13:49:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:49:39.417089
+2025-04-20 13:59:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 13:59:39.585855
+2025-04-20 14:09:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:09:39.705972
+2025-04-20 14:19:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:19:39.739000
+2025-04-20 14:29:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:29:39.980801
+2025-04-20 14:39:39 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:39:39.417166
+2025-04-20 14:40:45 INFO log.py:21: Yasb v1.6.9
+2025-04-20 14:40:46 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 14:40:47 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:40:47.911072
+2025-04-20 14:40:48 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 14:40:50 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 14:40:50 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 14:40:50 DEBUG _windows.py:192: Thread started
+2025-04-20 14:40:52 INFO log.py:21: Yasb v1.6.9
+2025-04-20 14:40:52 ERROR main.py:34: Another instance of the YASB is already running.
+2025-04-20 14:41:15 INFO log.py:21: Yasb v1.6.9
+2025-04-20 14:41:15 ERROR main.py:34: Another instance of the YASB is already running.
+2025-04-20 14:50:48 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:50:48.078514
+2025-04-20 14:54:00 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 14:54:00 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 14:54:00 DEBUG _windows.py:201: Exiting thread
+2025-04-20 14:54:00 DEBUG _windows.py:75: Closing
+2025-04-20 14:54:02 INFO log.py:21: Yasb v1.6.9
+2025-04-20 14:54:02 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 14:54:04 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:54:04.082107
+2025-04-20 14:54:04 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 14:54:06 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 14:54:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 14:54:06 DEBUG _windows.py:192: Thread started
+2025-04-20 14:55:11 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 14:55:11 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 14:55:11 DEBUG _windows.py:201: Exiting thread
+2025-04-20 14:55:11 DEBUG _windows.py:75: Closing
+2025-04-20 14:55:13 INFO log.py:21: Yasb v1.6.9
+2025-04-20 14:55:15 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 14:55:16 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:55:16.145440
+2025-04-20 14:55:16 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 14:55:19 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 14:55:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 14:55:19 DEBUG _windows.py:192: Thread started
+2025-04-20 14:59:06 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 14:59:06 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 14:59:06 DEBUG _windows.py:201: Exiting thread
+2025-04-20 14:59:06 DEBUG _windows.py:75: Closing
+2025-04-20 14:59:08 INFO log.py:21: Yasb v1.6.9
+2025-04-20 14:59:09 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 14:59:10 INFO weather.py:369: Fetched new weather data at 2025-04-20 14:59:10.013668
+2025-04-20 14:59:10 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 14:59:13 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 14:59:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 14:59:13 DEBUG _windows.py:192: Thread started
+2025-04-20 15:09:10 INFO weather.py:369: Fetched new weather data at 2025-04-20 15:09:10.380943
+2025-04-20 15:18:21 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 15:18:21 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 15:18:21 DEBUG _windows.py:201: Exiting thread
+2025-04-20 15:18:21 DEBUG _windows.py:75: Closing
+2025-04-20 15:18:23 INFO log.py:21: Yasb v1.6.9
+2025-04-20 15:18:24 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 15:18:28 INFO weather.py:369: Fetched new weather data at 2025-04-20 15:18:28.222501
+2025-04-20 15:18:28 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 15:18:31 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 15:18:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 15:18:31 DEBUG _windows.py:192: Thread started
+2025-04-20 15:19:15 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 15:19:16 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 15:19:16 DEBUG _windows.py:201: Exiting thread
+2025-04-20 15:19:16 DEBUG _windows.py:75: Closing
+2025-04-20 15:19:17 INFO log.py:21: Yasb v1.6.9
+2025-04-20 15:19:18 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 15:19:19 INFO weather.py:369: Fetched new weather data at 2025-04-20 15:19:19.349827
+2025-04-20 15:19:19 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 15:19:22 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 15:19:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 15:19:22 DEBUG _windows.py:192: Thread started
+2025-04-20 15:24:04 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 15:24:04 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 15:24:04 DEBUG _windows.py:201: Exiting thread
+2025-04-20 15:24:04 DEBUG _windows.py:75: Closing
+2025-04-20 15:24:06 INFO log.py:21: Yasb v1.6.9
+2025-04-20 15:24:07 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 15:24:08 INFO weather.py:369: Fetched new weather data at 2025-04-20 15:24:08.431392
+2025-04-20 15:24:08 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 15:24:11 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 15:24:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 15:24:11 DEBUG _windows.py:192: Thread started
+2025-04-20 15:34:08 INFO weather.py:369: Fetched new weather data at 2025-04-20 15:34:08.480316
+2025-04-20 15:44:08 INFO weather.py:369: Fetched new weather data at 2025-04-20 15:44:08.730895
+2025-04-20 15:54:08 INFO weather.py:369: Fetched new weather data at 2025-04-20 15:54:08.439575
+2025-04-20 16:03:31 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:03:31 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:03:31 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:03:31 DEBUG _windows.py:75: Closing
+2025-04-20 16:03:34 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:03:35 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:03:35 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:03:35.938694
+2025-04-20 16:03:36 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:03:39 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:03:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:03:39 DEBUG _windows.py:192: Thread started
+2025-04-20 16:13:36 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:13:36.130877
+2025-04-20 16:14:50 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:14:50 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:14:50 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:14:50 DEBUG _windows.py:75: Closing
+2025-04-20 16:14:52 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:14:53 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:14:54 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:14:54.475006
+2025-04-20 16:14:54 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:14:57 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:14:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:14:57 DEBUG _windows.py:192: Thread started
+2025-04-20 16:15:28 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:15:29 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:15:29 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:15:29 DEBUG _windows.py:75: Closing
+2025-04-20 16:15:31 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:15:32 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:15:33 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:15:33.622029
+2025-04-20 16:15:33 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:15:38 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:15:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:15:38 DEBUG _windows.py:192: Thread started
+2025-04-20 16:20:55 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:20:55 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:20:55 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:20:55 DEBUG _windows.py:75: Closing
+2025-04-20 16:20:57 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:20:58 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:20:59 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:20:59.229327
+2025-04-20 16:20:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:21:02 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:21:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:21:02 DEBUG _windows.py:192: Thread started
+2025-04-20 16:21:10 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:21:10 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:21:10 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:21:10 DEBUG _windows.py:75: Closing
+2025-04-20 16:21:11 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:21:12 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:21:13 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:21:13.438438
+2025-04-20 16:21:13 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:21:16 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:21:16 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:21:16 DEBUG _windows.py:192: Thread started
+2025-04-20 16:21:28 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:21:28 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:21:28 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:21:28 DEBUG _windows.py:75: Closing
+2025-04-20 16:21:30 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:21:31 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:21:31 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:21:31.852442
+2025-04-20 16:21:31 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:21:34 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:21:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:21:34 DEBUG _windows.py:192: Thread started
+2025-04-20 16:21:45 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:21:45 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:21:45 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:21:45 DEBUG _windows.py:75: Closing
+2025-04-20 16:21:46 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:21:47 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:21:48 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:21:48.489576
+2025-04-20 16:21:48 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:21:51 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:21:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:21:51 DEBUG _windows.py:192: Thread started
+2025-04-20 16:21:57 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 16:21:58 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 16:21:58 DEBUG _windows.py:201: Exiting thread
+2025-04-20 16:21:58 DEBUG _windows.py:75: Closing
+2025-04-20 16:21:59 INFO log.py:21: Yasb v1.6.9
+2025-04-20 16:22:01 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 16:22:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:22:02.093185
+2025-04-20 16:22:02 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 16:22:05 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 16:22:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 16:22:05 DEBUG _windows.py:192: Thread started
+2025-04-20 16:32:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:32:02.098030
+2025-04-20 16:42:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:42:02.104373
+2025-04-20 16:52:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 16:52:02.104920
+2025-04-20 17:02:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 17:02:02.124772
+2025-04-20 17:12:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 17:12:02.131330
+2025-04-20 17:22:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 17:22:02.127992
+2025-04-20 17:32:02 INFO weather.py:369: Fetched new weather data at 2025-04-20 17:32:02.148462
+2025-04-20 17:41:18 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 17:41:18 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 17:41:18 DEBUG _windows.py:201: Exiting thread
+2025-04-20 17:41:18 DEBUG _windows.py:75: Closing
+2025-04-20 17:41:25 INFO log.py:21: Yasb v1.6.9
+2025-04-20 17:41:30 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 17:41:35 INFO log.py:21: Yasb v1.6.9
+2025-04-20 17:41:35 ERROR main.py:34: Another instance of the YASB is already running.
+2025-04-20 17:41:37 INFO weather.py:369: Fetched new weather data at 2025-04-20 17:41:37.577101
+2025-04-20 17:41:37 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 17:41:41 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 17:41:41 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 17:41:41 DEBUG _windows.py:192: Thread started
+2025-04-20 17:51:37 INFO weather.py:369: Fetched new weather data at 2025-04-20 17:51:37.584030
+2025-04-20 18:01:37 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:01:37.783302
+2025-04-20 18:11:37 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:11:37.594120
+2025-04-20 18:15:54 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:15:54 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:15:54 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:15:54 DEBUG _windows.py:75: Closing
+2025-04-20 18:15:56 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:15:57 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:15:58 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:15:58.700455
+2025-04-20 18:15:58 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:16:02 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:16:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:16:02 DEBUG _windows.py:192: Thread started
+2025-04-20 18:25:59 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:25:59.195816
+2025-04-20 18:33:37 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:33:37 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:33:37 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:33:37 DEBUG _windows.py:75: Closing
+2025-04-20 18:33:40 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:33:44 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:33:46 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:33:46.896525
+2025-04-20 18:33:47 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:33:51 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:33:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:33:51 DEBUG _windows.py:192: Thread started
+2025-04-20 18:34:26 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:34:26 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:34:26 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:34:26 DEBUG _windows.py:75: Closing
+2025-04-20 18:34:28 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:34:29 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:34:30 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:34:30.578152
+2025-04-20 18:34:30 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:34:34 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:34:34 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:34:34 DEBUG _windows.py:192: Thread started
+2025-04-20 18:44:30 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:44:30.892984
+2025-04-20 18:45:58 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:45:58 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:45:58 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:45:58 DEBUG _windows.py:75: Closing
+2025-04-20 18:46:00 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:46:02 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:46:03 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:46:03.399007
+2025-04-20 18:46:03 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:46:06 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:46:07 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:46:07 DEBUG _windows.py:192: Thread started
+2025-04-20 18:48:58 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:48:58 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:48:58 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:48:58 DEBUG _windows.py:75: Closing
+2025-04-20 18:49:01 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:49:02 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:49:03 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:49:03.971357
+2025-04-20 18:49:04 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:49:08 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:49:08 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:49:08 DEBUG _windows.py:192: Thread started
+2025-04-20 18:50:30 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:50:30 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:50:30 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:50:30 DEBUG _windows.py:75: Closing
+2025-04-20 18:50:32 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:50:34 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:50:35 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:50:35.044165
+2025-04-20 18:50:35 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:50:39 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:50:39 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:50:39 DEBUG _windows.py:192: Thread started
+2025-04-20 18:50:55 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:50:55 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:50:55 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:50:55 DEBUG _windows.py:75: Closing
+2025-04-20 18:50:57 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:50:58 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:50:59 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:50:59.682383
+2025-04-20 18:50:59 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:51:03 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:51:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:51:04 DEBUG _windows.py:192: Thread started
+2025-04-20 18:51:38 INFO controller.py:12: Reloading Application because of config update...
+2025-04-20 18:51:38 DEBUG _windows.py:218: Stopping worker thread...
+2025-04-20 18:51:38 DEBUG _windows.py:201: Exiting thread
+2025-04-20 18:51:38 DEBUG _windows.py:75: Closing
