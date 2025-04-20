@@ -441,3 +441,13 @@
 2025-04-20 18:51:38 DEBUG _windows.py:218: Stopping worker thread...
 2025-04-20 18:51:38 DEBUG _windows.py:201: Exiting thread
 2025-04-20 18:51:38 DEBUG _windows.py:75: Closing
+2025-04-20 18:51:41 INFO log.py:21: Yasb v1.6.9
+2025-04-20 18:51:42 DEBUG win32.py:55: Looking up time zone info from registry
+2025-04-20 18:51:43 INFO weather.py:369: Fetched new weather data at 2025-04-20 18:51:43.430547
+2025-04-20 18:51:43 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2025-04-20 18:51:47 INFO watcher.py:39: Created file watcher for path C:\Users\Lucky\.config\yasb
+2025-04-20 18:51:47 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-04-20 18:51:47 DEBUG _windows.py:192: Thread started
+2025-04-20 19:01:43 INFO weather.py:369: Fetched new weather data at 2025-04-20 19:01:43.981694
+2025-04-20 19:11:43 INFO weather.py:369: Fetched new weather data at 2025-04-20 19:11:43.416849
+2025-04-20 19:21:43 INFO weather.py:369: Fetched new weather data at 2025-04-20 19:21:43.426523
