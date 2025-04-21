@@ -261,7 +261,7 @@
 .power-menu-widget .label {
 	color: var(--powermenulabel);
 	font-size: 14px;
-    padding: 0 5px 0 0;
+    padding: 0 0 0 0;
 }
 .power-menu-popup {
 	background-color: transparent;
