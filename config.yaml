@@ -44,7 +44,6 @@ bars:
       right: [
         "glazewm_tiling_direction",
         "wifi",
-        "weather",
         "volume",
         "cpu",
         "battery",
