@@ -28,6 +28,7 @@
     --powermenucancellabel: #c53b53;
     --weathericon: #ffc777;
     --cpuicon: #7aa2f7;
+    --languagelabel: #c3e88d;
 }
 
 * {
@@ -177,6 +178,9 @@
 }
 
 /* Wifi */
+.wifi-widget {
+  padding: 0 5px;
+}
 
 .wifi-widget .widget-container {
     background-color: var(--widgetbackground);
@@ -213,7 +217,9 @@
 
 /* CPU */
 
-.cpu-widget {}
+.cpu-widget {
+  padding: 0 5px;
+}
 .cpu-widget .widget-container {
     background-color: var(--widgetbackground);
     border-radius: 16px;
@@ -229,7 +235,9 @@
 }
 
 /* Battery */
-
+.battery-widget {
+  padding: 0 5px;
+}
 .battery-widget .widget-container {
     background-color: var(--widgetbackground);
     border-radius: 16px;
@@ -329,4 +337,19 @@
 	font-size: 18px;
 	margin: 0 5px 0px 10px;
     color: var(--weathericon);
+}
+
+/* Language */
+.language-widget {
+  padding: 0 5px;
+}
+.language-widget .widget-container {
+  background-color: var(--widgetbackground);
+  border-radius: 16px;
+  padding: 0 5px;
+}
+
+.language-widget .widget-container .label {
+  color: var(--languagelabel);
+	padding: 0 10px 0px 10px;
 }

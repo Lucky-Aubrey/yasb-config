@@ -35,6 +35,7 @@ bars:
     widgets:
       left: [
         "home",
+        "language",
         "glazewm_workspaces",
         "media",
       ]
@@ -64,6 +65,16 @@ widgets:
       blur: false
       round_corners: true
       round_corners_type: "normal"
+  language:
+    type: "yasb.language.LanguageWidget"
+    options:
+      label: "{lang[language_code]}"
+      label_alt: "{lang[full_name]}"
+      update_interval: 5
+      callbacks:
+        on_left: "toggle_label"
+        on_middle: "do_nothing"
+        on_right: "do_nothing"
   glazewm_workspaces:
     type: "glazewm.workspaces.GlazewmWorkspacesWidget"
     options:
